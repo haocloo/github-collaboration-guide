@@ -9,7 +9,9 @@
 ![simplified version](./simplified%20version.png)
 
 
-<br><br>
+<br><br><hr><hr><hr>
+
+### Full Version
 
 <div align="center">
 
@@ -23,8 +25,6 @@
 </div>
 
 <br><br>
-
-### Full Version
 
 <div align="center">
 
