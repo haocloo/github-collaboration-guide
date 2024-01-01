@@ -9,7 +9,7 @@
 ![simplified version](./simplified%20version.png)
 
 
-<br><br><hr><hr><hr>
+<br><br><hr>
 
 ### Full Version
 
