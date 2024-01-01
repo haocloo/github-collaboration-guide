@@ -11,6 +11,8 @@
 
 <br><br>
 
+### Full Version
+
 <div align="center">
 
 ![pdf thumbnail](./pdf%20thumbnail.png)
@@ -23,8 +25,6 @@
 </div>
 
 <br><br>
-
-### Full Version
 
 <div align="center">
 
