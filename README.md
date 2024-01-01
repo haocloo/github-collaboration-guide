@@ -1,5 +1,14 @@
 ### This repo was made to equip the CS Society 23/24 technical team with the necessary skills to collaborate using Git and GitHub. You will learn how to set up your local and remote repositories, create branches, make commits, push changes, pull updates, merge conflicts, and more.
 
+
+<br><br>
+
+
+### Simplified Version
+
+![simplified version](./simplified%20version.png)
+
+
 <br><br>
 
 <div align="center">
@@ -14,6 +23,8 @@
 </div>
 
 <br><br>
+
+### Full Version
 
 <div align="center">
 
