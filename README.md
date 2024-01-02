@@ -6,7 +6,7 @@
 
 ### Simplified Version
 
-![simplified version](./simplified%20version.png)
+![simplified diagram](./simplified%20diagram.png)
 
 
 <br><br><hr>
