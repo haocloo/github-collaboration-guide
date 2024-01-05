@@ -1,13 +1,20 @@
 ### This repo was made to equip the CS Society 23/24 technical team with the necessary skills to collaborate using Git and GitHub. You will learn how to set up your local and remote repositories, create branches, make commits, push changes, pull updates, merge conflicts, and more.
 
-
 <br><br>
 
+## Embedding the Simplified Diagram
 
-### Simplified Version
+To embed the simplified diagram in your README, use the following markdown code:
+
+<br>
+
+```markdown
+![Simplified Diagram for GitHub Collaboration](https://raw.githubusercontent.com/haocloo/github-collaboration-guide/main/simplified%20diagram.png)
+```
+
+### Simplified Diagram for GitHub Collaboration
 
 ![simplified diagram](./simplified%20diagram.png)
-
 
 <br><br><hr>
 
@@ -39,5 +46,5 @@
 
 <br><br>
 
-> **Try out the Gitlens extension on this repo to visualize the commits on the commit graph.** 
-![Gitlens](./gitlens.png)
+> **Try out the Gitlens extension on this repo to visualize the commits on the commit graph.**
+> ![Gitlens](./gitlens.png)
